@@ -2,7 +2,7 @@ enablePlugins(ScalaJSPlugin)
 scalaJSUseMainModuleInitializer := true
 
 /** Name of project */
-name := "RedditParseURLs"
+name := "BindingScalaUberLogin"
 
 /** Organization */
 organization := "com.github.sguzman"
